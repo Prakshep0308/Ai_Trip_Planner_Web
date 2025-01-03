@@ -7,19 +7,19 @@ hotel and sightseeing recommendations based on destination, budget, and group si
 ## Screenshots
 
 # Home
-![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_web/blob/e1ab96314c065f1284dc95a589599a6ff99832fd/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203154.png)
+![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_Web/blob/adbb5b743721e35f326498ab262e2edefececb79/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203154.png)
 
 # Create Trip
-![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_web/blob/e1ab96314c065f1284dc95a589599a6ff99832fd/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203315.png)
+![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_Web/blob/adbb5b743721e35f326498ab262e2edefececb79/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203315.png)
 
 # Result
-![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_web/blob/e1ab96314c065f1284dc95a589599a6ff99832fd/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203712.png)
+![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_Web/blob/adbb5b743721e35f326498ab262e2edefececb79/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203712.png)
 
 # Hotal Recommendation
-![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_web/blob/e1ab96314c065f1284dc95a589599a6ff99832fd/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203749.png)
+![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_Web/blob/adbb5b743721e35f326498ab262e2edefececb79/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203749.png)
 
 # Places To Visit
-![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_web/blob/e1ab96314c065f1284dc95a589599a6ff99832fd/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203809.png)
+![alt text](https://github.com/Prakshep0308/Ai_Trip_Planner_Web/blob/adbb5b743721e35f326498ab262e2edefececb79/Ai_Trip_Planner/public/Screenshot%202024-12-24%20203809.png)
 
 ## Built With
 
